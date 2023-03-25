@@ -1,0 +1,32 @@
+button.rec-dot{
+    background-color: gray;
+    box-shadow: 0 0 1px 3px rgb(0, 0, 0);
+    opacity: .8;
+}
+
+button.rec-dot_active {
+    background-color: white;
+    box-shadow: 0 0 1px 3px ;
+    border: 0px solid black;
+}
+
+  button.rec-dot:hover,button.rec-dot:focus{
+    background-color: white;
+    box-shadow: 0 0 1px 3px rgb(0, 0, 0);
+  }
+
+button.rec-arrow{
+    display: none;
+}
+
+button.rec.rec-arrow:hover,button.rec.rec-arrow:focus{
+    background-color: white;
+    color: black;
+    border: 1px solid rgb(255, 255, 255);
+}
+
+.main-carousel{
+    height: 20rem;
+    background-color: white;
+    padding: 1rem 0rem;
+}
