@@ -3,7 +3,7 @@
 
 
 ## Descrição do Projeto
-<p align="left">Foi feito um formulário com várias etapas usando ReactJs</p>
+<p align="left">ReactAutos é um site onde é possível encontrar anúncios de veículos e anunciar também.</p>
 
 ### 🛠 Tecnologias
 
